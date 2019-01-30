@@ -1,0 +1,6 @@
+[submodule "base-common"]
+	path = base-common
+	url = git@github.com:share-zone/base-common.git
+[submodule "message-common"]
+	path = message-common
+	url = git@github.com:share-zone/message-common.git

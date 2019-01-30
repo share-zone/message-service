@@ -1,0 +1,4 @@
+rootProject.name = 'message-service'
+
+include 'base-common',
+        'message-common'
