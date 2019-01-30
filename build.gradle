@@ -53,6 +53,7 @@ dependencies {
 
     implementation project(':base-common')
     implementation project(':message-common')
+    implementation project(':message-domain')
 
     runtimeOnly 'org.postgresql:postgresql'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'

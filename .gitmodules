@@ -4,3 +4,6 @@
 [submodule "message-common"]
 	path = message-common
 	url = git@github.com:share-zone/message-common.git
+[submodule "message-domain"]
+	path = message-domain
+	url = git@github.com:share-zone/message-domain.git

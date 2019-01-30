@@ -1,4 +1,5 @@
 rootProject.name = 'message-service'
 
 include 'base-common',
-        'message-common'
+        'message-common',
+        'message-domain'
